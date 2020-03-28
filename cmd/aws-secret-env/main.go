@@ -38,7 +38,7 @@ var (
 					return err
 				}
 
-				return unix.Exec(argv0, args[2:], env)
+				return unix.Exec(argv0, args[1:], env)
 			})
 		},
 	}
