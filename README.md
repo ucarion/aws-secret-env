@@ -1,7 +1,7 @@
 # aws-secret-env
 
 `aws-secret-env` is a CLI tool that helps you inject secrets from [AWS Secrets
-Manager](https://aws.amazon.com/secrets-manager/) into the environment variable
+Manager](https://aws.amazon.com/secrets-manager/) into the environment variables
 of a program. It also helps you create, view, add, and remove secrets in Secrets
 Manager.
 
